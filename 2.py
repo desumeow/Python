@@ -5,4 +5,4 @@
 def my_func(fname = 'Имя', surname = 'Фамилия', byear = 'Год рождения', city = 'Город', email = 'email', phone = 'телефон'):
     return (fname, surname, byear, city, email, phone)
 
-print(my_func('Вадим', 'Казаков', '1995', 'Курск', 'почта', 'телефон'))
+print(my_func('Иван', 'Иванович', '1989', 'Омск', 'почта', '+5666594294907'))
