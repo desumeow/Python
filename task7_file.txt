@@ -1,0 +1,5 @@
+firm_1   ООО   10000   5000
+firm_2   AAA   12345   5123
+firm_3   FFF   15432   5321
+firm_4   DDD   54321   4321
+firm_5   KKK   100     5000
